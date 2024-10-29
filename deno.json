@@ -1,0 +1,12 @@
+{
+  "lint": {
+    "rules": {
+      "exclude": ["no-empty-pattern", "no-sloppy-imports"]
+    }
+  },
+  "compilerOptions": {
+    "lib": ["deno.ns", "dom"],
+    "strict": true
+  },
+  "unstable": ["sloppy-imports"]
+}

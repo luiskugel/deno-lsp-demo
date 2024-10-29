@@ -1,0 +1,6 @@
+node_modules
+dist/
+
+src/client
+src/index.client.ts
+src/index.server.ts

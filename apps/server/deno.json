@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@idot-digital/function-generator": "jsr:@idot-digital/function-generator@^2.31.7"
+  }
+}
